@@ -31,3 +31,7 @@ The best portfolios aren't built on one asset, but on the ability to read the ro
 
 ![Macro View: The Decade Horse Race](./strength_overlap_macro.png)
 ![Micro View: The 2026 Rotation Crossing](./strength_overlap_micro.png)
+
+---
+
+🔗 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7427294054591139840/)
