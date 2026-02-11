@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Great Paradox of 2026 | Article Reader</title>
+    <link rel="stylesheet" href="viewer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Outfit:wght@400;700&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+</head>
+
+<body>
+    <div class="progress-container">
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <header class="glass-header">
+        <div class="container header-content">
+            <span class="logo">ANTIGRAVITY <span class="accent">INSIGHTS</span></span>
+            <div class="header-right">
+                <span class="date" id="currentDate"></span>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <article id="content" class="markdown-body glass-panel">
+            <div class="loader">
+                <div class="spinner"></div>
+                <p>Decoding the Paradox...</p>
+            </div>
+        </article>
+    </main>
+
+    <footer class="container">
+        <div class="footer-content">
+            <p>&copy; 2026 Antigravity Intelligence. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="viewer.js"></script>
+</body>
+
+</html>
