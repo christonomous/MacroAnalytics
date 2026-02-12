@@ -14,9 +14,9 @@ Since 2023, the market has split into three distinct fates:
 **Why is this happening?**
 B2B acquisition has become brutally hard because the value proposition of "we do it for you" is losing to "this AI does it for $50/mo." 
 
-But here comes the twist — even **Small SaaS** companies are being squeezed from both sides. They lack the distribution power of Big Tech (who simply copy successful features) and the high-touch relationships of agencies. 
+But here comes the twist  -  even **Small SaaS** companies are being squeezed from both sides. They lack the distribution power of Big Tech (who simply copy successful features) and the high-touch relationships of agencies. 
 
-Meanwhile, agencies are being defunded by clients who hope SaaS will replace them — only for that capital to be absorbed by the Platform Monopolies.
+Meanwhile, agencies are being defunded by clients who hope SaaS will replace them  -  only for that capital to be absorbed by the Platform Monopolies.
 
 **The Lesson:**
 It’s no longer enough to just "have a SaaS" or "run an agency." 

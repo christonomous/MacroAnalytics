@@ -6,7 +6,7 @@
 
 For the better part of a century, the global economic engine has run on a fundamental principle: **debt-fueled growth.** Rooted in Keynesian theory, this system operates on the assumption that borrowing money for investment leads to economic expansion, job creation, rising incomes, and ultimately, the capacity to service ever-increasing levels of debt. Critical to this model are two pillars: low, stable interest rates to encourage borrowing, and a continuously expanding global workforce whose productivity and consumption fuel the cycle.
 
-However, as we navigate 2026, this established framework faces an unprecedented challenge: **the advent of Artificial Intelligence.** The very technology poised to redefine productivity and economic output is also threatening the foundational assumption of a growing, debt-servicing human workforce. This is the "Great Paradox"—a system designed for human expansion confronting a future potentially defined by human redundancy.
+However, as we navigate 2026, this established framework faces an unprecedented challenge: **the advent of Artificial Intelligence.** The very technology poised to redefine productivity and economic output is also threatening the foundational assumption of a growing, debt-servicing human workforce. This is the "Great Paradox" - a system designed for human expansion confronting a future potentially defined by human redundancy.
 
 ![The Debt-Fueled Growth Paradox Flywheel](assets/paradox_flywheel.png)
 > The Traditional Debt Flywheel: A self-reinforcing cycle of debt, investment, and human-driven growth, now facing structural disruption by AI.
@@ -28,7 +28,7 @@ The paradox is clearest when looking at which labor models currently pay into th
 ![AI Job Exposure Paradox](file:///home/christonomous/Documents/worldsproblem/assets/job_exposure.png)
 > The Paradox Result: The very countries burdened with the highest debt are also those facing the greatest workforce displacement from AI.
 
-This poses a critical question for the debt-based system: **If a significant portion of the workforce is displaced, who will generate the future income necessary to service the $38 trillion U.S. debt?** The expansionary model requires an expanding human income base—a premise AI directly challenges.
+This poses a critical question for the debt-based system: **If a significant portion of the workforce is displaced, who will generate the future income necessary to service the $38 trillion U.S. debt?** The expansionary model requires an expanding human income base - a premise AI directly challenges.
 
 ### Market Divergence: Investors are Voting with Their Feet
 
@@ -43,7 +43,7 @@ The financial markets have already split into two worlds. Investors are no longe
 
 The implications of this paradox are reshaping global financial strategies. Nations are moving away from "paper promises" (debt) and toward "safe haven" hardware and physical assets.
 
-* **China's Structural Exit:** China’s retreat from the U.S. debt system is a long-term strategic slide. Holdings have dropped from a **2013 peak of $1.32 Trillion** to just **$682 Billion** in early 2026—a nearly 50% reduction.
+* **China's Structural Exit:** China’s retreat from the U.S. debt system is a long-term strategic slide. Holdings have dropped from a **2013 peak of $1.32 Trillion** to just **$682 Billion** in early 2026 - a nearly 50% reduction.
 ![China Divestment Trend](file:///home/christonomous/Documents/worldsproblem/assets/china_divestment.png)
 > A structural retreat from the dollar: China’s aggressive reduction in U.S. debt holdings underscores a multi-year pivot away from the traditional financial system.
 

@@ -5,7 +5,7 @@
 In the era of artificial intelligence, the traditional economic paradigm is shifting at an unprecedented pace. Everything that can be automated, will be. From manual labor to complex SaaS operations and small creative agencies, the "middle" is being hollowed out. 
 
 > "Robots and computers will own any clearly bounded job, skill or game. Humans should focus on creative work... If they can train you to do it, then eventually they will train a computer to do it."
-> — **Naval Ravikant**
+>  -  **Naval Ravikant**
 
 Unless you possess a hyper-niche that AI cannot easily replicate, the pressure of automation is a ticking clock. This is the core of the **K-Shaped Economy**: a divergence where the owners of infrastructure and capital ascend, while those reliant on labor and outdated business models are left behind.
 
@@ -16,11 +16,11 @@ Even in the technology sector, a sub-K-shape is forming. We call it the **SaaS T
 While Big Tech (the infrastructure providers) captures the gains of automation, smaller SaaS companies and agencies are struggling to maintain margins as the "marginal cost of intelligence" drops toward zero.
 
 > "AI won't replace humans. But humans who use AI will replace those who don't."
-> — **Sam Altman**
+>  -  **Sam Altman**
 
 ## From Labor to Ownership
 
-The future is not about work; it is about **ownership**. As the financial sector paradoxically grows in response to this dilemma, the only way to safeguard your future—and that of your children—is to accumulate assets that survive this transition.
+The future is not about work; it is about **ownership**. As the financial sector paradoxically grows in response to this dilemma, the only way to safeguard your future - and that of your children - is to accumulate assets that survive this transition.
 
 ![K-Shaped Asset Performance](assets/asset_divergence.png)
 
@@ -37,7 +37,7 @@ The goal is to capture "Monetary Energy" before it is debased by the system's ne
 ![Capturing Monetary Energy](assets/monetary_energy.png)
 
 > "In the presence of rampant inflation, cash & credit become crumbling liabilities. Convert your balance sheet to #bitcoin to turn liabilities into assets."
-> — **Michael Saylor**
+>  -  **Michael Saylor**
 
 ## The Strategy: Accumulation in a Tightening Market
 

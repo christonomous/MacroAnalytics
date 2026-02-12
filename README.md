@@ -9,9 +9,9 @@ This repository serves as the engine for my macroeconomic research. I use Python
 ## ✍️ Where I Publish
 Most of my analysis, charts, and articles are published here:
 
-- 🔗 **LinkedIn**: [Christonomous](https://www.linkedin.com/in/christonomous/) — Daily/Weekly macro takes and short-form posts.
-- 🖋️ **Medium**: [@christonomous](https://medium.com/@christonomous) — Deep-dive articles and technical breakdowns.
-- 🌐 **Website**: [chris.zillions.app](https://chris.zillions.app) — My professional home and portfolio.
+- 🔗 **LinkedIn**: [Christonomous](https://www.linkedin.com/in/christonomous/)  -  Daily/Weekly macro takes and short-form posts.
+- 🖋️ **Medium**: [@christonomous](https://medium.com/@christonomous)  -  Deep-dive articles and technical breakdowns.
+- 🌐 **Website**: [chris.zillions.app](https://chris.zillions.app)  -  My professional home and portfolio.
 
 ---
 
