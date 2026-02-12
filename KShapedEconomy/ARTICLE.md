@@ -1,4 +1,4 @@
-# The SaaS Trap & The Economic Split: Why Even Software Won't Save You.
+# The Economic Split: Why Even Software Won't Save You.
 
 ![The Agency Squeeze Chart](assets/k_shaped_economy.png)
 
