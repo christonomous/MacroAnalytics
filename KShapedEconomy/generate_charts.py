@@ -6,11 +6,9 @@ import os
 
 # Tickers representing different segments of the economy
 tickers = {
-    'NVDA': 'AI Infrastructure (The New Oil)',
-    'XLK': 'Big Tech / SaaS Ecosystem',
-    'SPY': 'S&P 500 (Weighted)',
-    'RSP': 'Traditional Business (Equal Weight)',
-    'IWM': 'Service Agencies / SMBs (Struggling)'
+    'XLK': 'Big Tech SaaS (Monopolies)',
+    'WCLD': 'Small Tech SaaS (Struggling)',
+    'IWM': 'Service Agencies / SMBs'
 }
 
 # Start of the AI Boom
@@ -44,21 +42,15 @@ fig, ax = plt.subplots(figsize=(14, 8))
 
 # Define colors and line styles for clarity
 colors = {
-    'NVDA': '#ff0000', # Red for extreme outlier
-    'XLK': '#1f77b4',  # Blue for Tech
-    'SPY': '#2ca02c',  # Green for Market Benchmark
-    'RSP': '#ff7f0e',  # Orange for "Real Economy"
-    'IWM': '#bcbd22',  # Yellow/Green for Small Caps
-    'MCHI': '#7f7f7f'  # Grey for laggard
+    'XLK': '#1f77b4',  # Blue for Tech Monopolies
+    'WCLD': '#7f7f7f', # Grey for Small Tech (The Trap)
+    'IWM': '#ff7f0e'   # Orange for Service Agencies
 }
 
 styles = {
-    'NVDA': '-',
     'XLK': '-',
-    'SPY': '-',
-    'RSP': '--',
-    'IWM': '--',
-    'MCHI': ':'
+    'WCLD': '-.',
+    'IWM': '--'
 }
 
 for ticker, label in tickers.items():
@@ -66,10 +58,10 @@ for ticker, label in tickers.items():
             label=f"{label} (+{normalized_data[ticker].iloc[-1]-100:.1f}%)", 
             color=colors.get(ticker), 
             linestyle=styles.get(ticker),
-            linewidth=2 if ticker != 'NVDA' else 3) # Make NVDA stand out
+            linewidth=2)
 
 # Chart annotations and styling
-ax.set_title("The AI-Driven 'K-Shaped' Economy (Rebased to 100 at Jan 2023)", fontsize=16, fontweight='bold', pad=20)
+ax.set_title("The 'SaaS Trap': Big Tech vs Small Tech vs Services (Jan 2023 - Present)", fontsize=16, fontweight='bold', pad=20)
 ax.set_ylabel('Performance (Indexed to 100)', fontsize=12)
 ax.set_xlabel('Date (Start of AI Boom)', fontsize=12)
 
@@ -84,12 +76,7 @@ ax.legend(fontsize=12, loc='upper left', frameon=True, framealpha=0.9)
 # Add Grid
 ax.grid(True, linestyle='--', alpha=0.7)
 
-# Add Annotation for K-Shape Split
-last_date = normalized_data.index[-1]
-# Get y-values for annotation positioning
-y_nvda = normalized_data['NVDA'].iloc[-1]
-y_iwm = normalized_data['IWM'].iloc[-1]
-
+# Save
 output_dir = 'assets'
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
@@ -101,3 +88,8 @@ plt.tight_layout()
 save_path = os.path.join(output_dir, 'k_shaped_economy.png')
 plt.savefig(save_path, dpi=300)
 print(f"Chart saved to {save_path}")
+
+print("\nFinal Performance (Jan 2023 - Present):")
+for ticker in tickers:
+    perf = normalized_data[ticker].iloc[-1] - 100
+    print(f"{ticker}: {perf:+.1f}%")
