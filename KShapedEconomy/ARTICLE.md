@@ -23,3 +23,6 @@ It’s no longer enough to just "have a SaaS" or "run an agency."
 If you aren't building on top of a platform you own, or creating a niche so deep that AI can't map it, you are being liquidated by the giants.
 
 The middle is disappearing. You either become a platform, or you become a commodity.
+
+**The systemic risk?** If this concentration continues, we reach a point where capital merely accumulates at the top, and the economy stops circulating for everyone else.
+
