@@ -1,3 +1,5 @@
+![Global Financial Reset](./assets/cover.png)
+
 # The Global Financial Reset: The West's $28 Trillion Fragility
 
 > **TL;DR:** The US is running on a massive $28 trillion asset deficit, making it dangerously dependent on foreign capital. While powers like China and Japan are backing away, the EU has become the "last man standing" supporting the US Treasury market. This gives Europe unprecedented leverage - a single shift in their buying pattern could send US interest rates soaring and trigger a global financial restructuring.
