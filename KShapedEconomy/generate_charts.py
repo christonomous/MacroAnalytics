@@ -61,7 +61,7 @@ for ticker, label in tickers.items():
             linewidth=2)
 
 # Chart annotations and styling
-ax.set_title("The 'SaaS Trap': Big Tech vs Small Tech vs Services (Jan 2023 - Present)", fontsize=16, fontweight='bold', pad=20)
+ax.set_title("The 'K-Shape': Big Tech vs Small Tech vs Services (Jan 2023 - Present)", fontsize=16, fontweight='bold', pad=20)
 ax.set_ylabel('Performance (Indexed to 100)', fontsize=12)
 ax.set_xlabel('Date (Start of AI Boom)', fontsize=12)
 
