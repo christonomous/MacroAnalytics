@@ -1,4 +1,4 @@
-![The Bitcoin Plumbing Crash](/home/christonomous/.gemini/antigravity/brain/b985f44a-b5dd-4dbb-99be-96281f5b9dc8/bitcoin_plummet_cover_1770989117137.png)
+![The Bitcoin Plumbing Crash](assets/bitcoin_plummet_cover.png)
 
 # The Bitcoin "Plumbing" Crash: A Tale of Two Liquidations
 
