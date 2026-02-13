@@ -1,3 +1,5 @@
+![The Bitcoin Plumbing Crash](/home/christonomous/.gemini/antigravity/brain/b985f44a-b5dd-4dbb-99be-96281f5b9dc8/bitcoin_plummet_cover_1770989117137.png)
+
 # The Bitcoin "Plumbing" Crash: A Tale of Two Liquidations
 
 **TL;DR:** February 2026 delivered a brutal "double-dip" lesson in market structure. On **Feb 5**, Bitcoin crashed 13% due to a **Mechanical Plumbing** failure—a cascaded unwind of basis trades and dealer delta-hedging. On **Feb 12**, a second systemic crash hit, but this time it was a **"Dash for Cash"** liquidity crisis that simultaneously wiped out SPX, DAX, Gold, Silver, and Bitcoin. To survive the 2026 regime, one must distinguish between Wall Street's pipe-bursts and systemic liquidity drains.
